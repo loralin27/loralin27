@@ -56,7 +56,7 @@ I have hands-on experience through **internships, academic projects, and self-dr
 - Deployed the chatbot on Render for real-time user interaction  
 
 🔗 Repository:  
-👉 https://github.com/loralin27/ai-helpbot-mosdac  
+👉 [https://github.com/loralin27/ai-helpbot-mosdac ](https://github.com/Mridula222/ai-helpbot-kg) 
 
 ---
 
