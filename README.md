@@ -68,7 +68,7 @@ I have hands-on experience through **internships, academic projects, and self-dr
 - Applied supervised learning techniques for fraud classification  
 
 🔗 Repository:  
-👉 https://github.com/loralin27/atm-fraud-transaction-detection  
+👉 https://github.com/loralin27/atm-fraud-detection  
 
 ---
 
@@ -103,9 +103,10 @@ Silicon University, Odisha
 
 ## 🌐 Portfolio & Links
 🌐 Portfolio Website: https://loralin27.github.io  
-🔗 LinkedIn: https://linkedin.com/in/loralin-sahoo  
+🔗 LinkedIn: https://www.linkedin.com/in/loralin-sahoo-325609293/
 🐙 GitHub: https://github.com/loralin27  
-📧 Email: loralin2008@gmail.com  
+📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=loralin2008@gmail.com)
+ 
 
 ---
 
